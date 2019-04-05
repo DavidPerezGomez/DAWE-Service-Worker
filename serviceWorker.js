@@ -9,7 +9,7 @@ const offlineRes = [
     offlineUrl,
     './juego.js',
     './css/styles.css',
-    '/favicon.ico',
+    './favicon.ico',
 ];
 
 this.addEventListener('install', event => {
